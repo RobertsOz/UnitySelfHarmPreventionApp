@@ -1,0 +1,5 @@
+﻿Page, Date, Feeling, Urge, Intensity, Thoughts
+'Routine','N/A','10','No','High','real news'
+'Routine','N/A','8','Yes','Low','Don't work no more'
+'Distressed','N/A','3','No','Low','Distressed Test, should be 3,No and Low'
+'Self-Harmed','31/07/93','6','N/A','N/A','Final Test'
